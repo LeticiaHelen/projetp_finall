@@ -1,0 +1,36 @@
+.form-login{
+	width: 400px; 
+	margin: 100px auto;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+.form-cadastro{
+	width: 500px; 
+	margin: 55px auto;
+	border: 1px solid black;
+	border-radius: 10px;
+	height: 450px;
+	padding: 20px;
+}
+.form{
+	background-color:#f4f4f4;
+}
+.perfil{
+	width: 200px;
+	height: 180px;
+	margin-top: 30px;
+}
+.menuUsuario{
+	width: 100%;
+}
+.EditarDireita{
+	height: 35px;
+	width: 90px; 
+	margin-top: 30px;
+	float: right;
+}
+.nomeUsuario{
+	width: 100%;
+	margin-top: 10px; 
+}
